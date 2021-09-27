@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Branch master
+=======
+dummy1
+Branch feauter1
+>>>>>>> feature1
